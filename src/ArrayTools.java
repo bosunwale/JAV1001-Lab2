@@ -73,7 +73,7 @@ public class ArrayTools {
 
     }
         /*
-        Below, you will see the methods created
+        Below, are the methods created
         to calculate for the sum and average of
         the elements in the array, to check if
         an element exist in the array, and the
@@ -93,9 +93,8 @@ public class ArrayTools {
     }
 
     public static void ReverseArray(int[] reverseArray){
-        int i;
         String reverseResult;
-        for (i = reverseArray.length-1; i >= 0; i--){
+        for (int i = reverseArray.length-1; i >= 0; i--){
             reverseResult = String.valueOf(reverseArray[i]);
             System.out.println(reverseResult);
         }
