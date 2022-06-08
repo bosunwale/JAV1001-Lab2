@@ -1,6 +1,16 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
+/*
+Student Name: John Oluwale
+Student Number: A00246405
+Program Description: This is a program
+that encrypts and decrypts string using
+caesar encryption, prints out array based
+on the size and elements entered by the user,
+calculates the average of the array elements and
+displays the array in reverse order.
+ */
 public class ArrayTools {
 
     /*
